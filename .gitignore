@@ -1,0 +1,10 @@
+# Raw evidence never belongs in this repository.
+db-pc-builds-evidence/
+evidence/
+raw/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
